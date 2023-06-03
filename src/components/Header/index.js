@@ -155,7 +155,7 @@ const Header = props => {
                     isDark={isDark}
                     onClick={onClickLogout}
                   >
-                    Logout
+                    Logouts
                   </NavLinkLogoutButton>
                 </NavLinkItem>
               </NavLinksCard>
